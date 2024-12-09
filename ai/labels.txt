@@ -1,0 +1,17 @@
+0 A
+1 B
+2 C
+3 D
+4 give
+5 hello
+6 how
+7 K
+8 me
+9 O
+10 ok
+11 one
+12 thankyou
+13 three
+14 two
+15 what
+16 yes
